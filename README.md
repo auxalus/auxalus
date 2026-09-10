@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**auxalus/auxalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Yash Jaybhaye 👋
 
 Web3 Engineer & Full-Stack Developer specializing in decentralized systems, high-throughput backend services, and workflow automation. I build production-grade decentralized applications across **Solana** and **Ethereum**, write high-performance backend pipelines, and scale automated architectures with **n8n**.
@@ -82,5 +66,5 @@ Web3 Engineer & Full-Stack Developer specializing in decentralized systems, high
 ### 📬 Connect With Me
 
 - **Twitter / X:** [@auxalus](https://x.com/auxalus)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yashjaybhaye)
+- **LinkedIn:** [linkedin.com/in/yashjaybhaye](https://linkedin.com/in/yashjaybhaye)
 - **Email:** yashjaybhaye08@gmail.com
